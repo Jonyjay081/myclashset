@@ -1,1 +1,2 @@
-DOMAIN-SUFFIX,nightalks.com,🚀 节点选择
+payload:
+  - DOMAIN-SUFFIX,nightalks.com
